@@ -98,4 +98,3 @@ jobs:
         with:
           name: test-reports
           path: '*/build/reports/androidTests'
-  1
